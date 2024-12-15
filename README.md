@@ -10,3 +10,10 @@
 ## About screen rotation 90 degrees problem  
 * see also https://github.com/weimingtom/cocos2dx226_vc6  
 
+## Key code
+* CCEGLView.cpp
+* CCDirector.cpp
+* CCNode.cpp
+* CCSprite.cpp
+* HelloWorldScene.cpp
+* main.cpp
