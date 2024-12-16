@@ -13,7 +13,7 @@ int CCDevice::getDPI()
 	static int dpi = -1;
 	if (dpi == -1)
 	{
-#if USE_NO_GLFW
+#if 1//USE_NO_GLFW
 	    dpi = 160;
 #else
 		Display *dpy;
