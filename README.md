@@ -46,7 +46,7 @@ https://blog.csdn.net/weixin_44053279/article/details/129713948
 
 ## Key and important codes  
 * CCEGLView.cpp (EGL initialization and viewport rotation)   
-* CCDirector.cpp (Screen rotation)  
+* CCDirector.cpp (CCDirector::setProjection, Screen rotation)  
 * CCDirector.cpp (CCDirector::drawScene) and CCScene.cpp (Outside display list draw loop)
 * CCSprite.cpp and CCNode.cpp (Inside display list draw loop)
 * main.cpp (Screen size)  
