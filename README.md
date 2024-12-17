@@ -39,6 +39,11 @@ see cocos2dx/CCDirector.cpp, void CCDirector::setProjection(ccDirectorProjection
 #endif
 ```
 
+## About OpenGL projection and other cocos2d-x code execution flow, see  
+Cocos2d-x屏幕适配之Sprite绘制原理  
+https://blog.csdn.net/ado137/article/details/37563323  
+https://blog.csdn.net/weixin_44053279/article/details/129713948    
+
 ## Key and important codes  
 * CCEGLView.cpp
 * CCDirector.cpp
