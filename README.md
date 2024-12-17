@@ -45,9 +45,10 @@ https://blog.csdn.net/ado137/article/details/37563323
 https://blog.csdn.net/weixin_44053279/article/details/129713948    
 
 ## Key and important codes  
-* CCEGLView.cpp
-* CCDirector.cpp
-* CCNode.cpp
-* CCSprite.cpp
-* HelloWorldScene.cpp
-* main.cpp
+* CCEGLView.cpp (EGL initialization and viewport rotation)   
+* CCDirector.cpp (Screen rotation)  
+* CCScene.cpp (outside display list draw loop)
+* CCNode.cpp (inside display list draw loop)
+* CCSprite.cpp (inside display list draw loop)
+* main.cpp (Screen size)  
+* HelloWorldScene.cpp (outside the engine)  
