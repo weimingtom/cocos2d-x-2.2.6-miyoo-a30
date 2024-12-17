@@ -4,6 +4,10 @@
 ## Original Repo    
 * https://github.com/cocos2d/cocos2d-x/tree/cocos2d-x-2.2.6  
 
+## About OpenGL ES 2.0 initialization code  
+* Inspired by and thanks to Steward.    
+* see also https://steward-fu.github.io/website/handheld/miyoo_a30_cpp_es_triangle.htm   
+
 ## About gcc toolchain and development environment  
 * see also https://github.com/weimingtom/onscripter-libretro_fork  
 
