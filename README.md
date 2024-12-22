@@ -51,3 +51,9 @@ https://blog.csdn.net/weixin_44053279/article/details/129713948
 * CCSprite.cpp and CCNode.cpp (Inside display list draw loop)
 * main.cpp (Screen size)  
 * HelloWorldScene.cpp (Outside the engine)  
+
+## TODO  
+* https://github.com/kyokomi/Cocos2dxNovelGame  
+Cocos2dxNovelGame_v1.rar
+* https://github.com/wuxuanjian/cocos2d/tree/master/cocos2dx_lizi_1
+* https://github.com/opentalking/gif-for-cocos2dx
