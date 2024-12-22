@@ -60,3 +60,6 @@ Cocos2dxNovelGame_v1.rar
 * https://github.com/dayongxie/MyGUI  
 MyGUI_cocos2d-x.rar   
 * Cocos2d-x2.2.5修改版   
+* https://github.com/weimingtom/adv_cocos2dx  
+* https://github.com/weimingtom/marika_cocos2dx  
+only a template  
