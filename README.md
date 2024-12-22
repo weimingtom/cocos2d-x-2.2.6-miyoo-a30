@@ -57,3 +57,5 @@ https://blog.csdn.net/weixin_44053279/article/details/129713948
 Cocos2dxNovelGame_v1.rar
 * https://github.com/wuxuanjian/cocos2d/tree/master/cocos2dx_lizi_1
 * https://github.com/opentalking/gif-for-cocos2dx
+* https://github.com/dayongxie/MyGUI
+MyGUI_cocos2d-x.rar
