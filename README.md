@@ -63,3 +63,11 @@ MyGUI_cocos2d-x.rar
 * https://github.com/weimingtom/adv_cocos2dx  
 * https://github.com/weimingtom/marika_cocos2dx  
 only a template  
+
+## TODO
+* https://github.com/weimingtom/cocos2d-x-2.2.6-miyoo-a30/blob/master/cocos2dx/sprite_nodes/CCSprite.cpp#L566
+```
+把cocos2d-x 2.2.6移植到msys2上，运行效果如下。有个bug需要修复，否则运行会闪退（但用gdb调试则不会闪退），
+这个bug的位置在CCSprite::draw，有一个把指针转成(long)的语句，这个在某些场合下会截断导致地址错误，
+准确的写法应该是(uintptr_t)&m_sQuad，这样才可以原样转换回去void * ​​​
+```
